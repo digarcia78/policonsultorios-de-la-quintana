@@ -2,7 +2,12 @@
   {
     "name": "Lic. Luisina Bustos",
     "specialty": "Psicopedagogía",
-    "whatsapp": "+5492216151560",
+    "whatsapp": "+5492216151560"
+  },
+  {
+    "name": "Paula Ausili",
+    "specialty": "Psicopedagogía",
+    "whatsapp": "+5492215621803",
     "note": "Atiende los martes de 14 a 17 hs."
   },
   {
@@ -34,6 +39,12 @@
       "Medicina del estilo de vida, fitomedicina y Flores de Bach",
       "Atiende los martes de 16 a 18 hs."
     ]
+  },
+  {
+    "name": "Marcela Brosio",
+    "specialty": "Fonoaudiología",
+    "whatsapp": "+5492215927755",
+    "note": "Atiende los martes de 14 a 18 hs."
   },
   {
     "name": "Gabriela",

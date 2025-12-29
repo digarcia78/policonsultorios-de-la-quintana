@@ -194,25 +194,10 @@ main {
 }
 
 .footer-location-text {
-  margin: 0 0 0.6rem;
+  margin: 0;
   font-size: 0.82rem;
   color: var(--text-muted);
   line-height: 1.4;
-}
-
-.footer-location-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.5rem 1.1rem;
-  border-radius: 999px;
-  border: none;
-  background-color: var(--primary);
-  color: #ffffff;
-  font-size: 0.82rem;
-  font-weight: 600;
-  text-decoration: none;
-  box-shadow: 0 4px 10px rgba(9, 81, 33, 0.28);
 }
 
 /* Card de profesional */

@@ -1,5 +1,11 @@
 [
   {
+    "name": "Lic. Luisina Bustos",
+    "specialty": "Psicopedagogía",
+    "whatsapp": "+5492216151560",
+    "note": "Atiende los martes de 14 a 17 hs."
+  },
+  {
     "name": "Lic. María Nazarena Zuccarelli",
     "specialty": "Psicología",
     "whatsapp": "+5492214086641",
@@ -7,7 +13,8 @@
       "Especialista en Adicciones",
       "TCC y DBT",
       "Psicología del Deporte",
-      "Terapias vinculares (pareja y familia)"
+      "Terapias vinculares (pareja y familia)",
+      "Atiende los jueves de 17 a 20 hs."
     ]
   },
   {
@@ -24,7 +31,8 @@
       "Educación alimentaria y nutrición clínica (sobrepeso y cardiometabólicas)",
       "Alimentación plant based y vegetariana",
       "Acompañamiento en perimenopausia y menopausia",
-      "Medicina del estilo de vida, fitomedicina y Flores de Bach"
+      "Medicina del estilo de vida, fitomedicina y Flores de Bach",
+      "Atiende los martes de 16 a 18 hs."
     ]
   },
   {
@@ -51,7 +59,8 @@
       "Derecho laboral",
       "ART",
       "Familia y sucesiones",
-      "Daños y perjuicios"
+      "Daños y perjuicios",
+      "Atiende los lunes de 17 a 19 hs."
     ]
   },
   {
@@ -63,7 +72,8 @@
       "Derecho laboral",
       "ART",
       "Familia y sucesiones",
-      "Daños y perjuicios"
+      "Daños y perjuicios",
+      "Atiende los lunes de 17 a 19 hs."
     ]
   }
 ]

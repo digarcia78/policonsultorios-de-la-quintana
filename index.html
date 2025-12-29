@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Policonsultorios De la Quintana</title>
+    <meta
+      name="description"
+      content="Policonsultorios De la Quintana - Encontrá rápidamente profesionales de la salud y bienestar y contactalos por WhatsApp."
+    />
+    <!-- Tipografía moderna sans-serif -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a
+          href="https://www.instagram.com/delaquintana178/"
+          class="header-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div class="logo-circle">
+            <img
+              src="./logo.jpg"
+              alt="Logo Policonsultorios De la Quintana"
+              class="logo-img"
+            />
+          </div>
+          <h1 class="site-title">Policonsultorios De la Quintana</h1>
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <!-- Barra de filtro sticky -->
+      <section class="filter-bar" aria-label="Filtrar por especialidad">
+        <label class="filter-label" for="specialtySelect">
+          Elegí una especialidad
+        </label>
+        <div class="filter-select-wrapper">
+          <select id="specialtySelect" class="filter-select">
+            <option value="all">Todas las especialidades</option>
+            <option value="Psicopedagogía">Psicopedagogía</option>
+            <option value="Fonoaudiología">Fonoaudiología</option>
+            <option value="Psicología">Psicología</option>
+            <option value="Nutrición">Nutrición</option>
+            <option value="Depilación definitiva">Depilación definitiva</option>
+            <option value="Cosmiatría">Cosmiatría</option>
+            <option value="Masoterapia">Masoterapia</option>
+            <option value="Abogado">Abogado</option>
+          </select>
+        </div>
+      </section>
+
+      <!-- Listado de profesionales -->
+      <section
+        id="professionalsSection"
+        class="professionals-section"
+        aria-live="polite"
+      >
+        <div id="statusMessage" class="status-message">
+          Cargando profesionales...
+        </div>
+        <div id="professionalsList" class="professionals-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-location" aria-label="Ubicación del policonsultorio">
+        <h2 class="footer-location-title">¿Dónde estamos?</h2>
+        <p class="footer-location-text">
+          Argentina, Provincia de Buenos Aires<br />
+          Ensenada, Quintana 178<br />
+          Entre Alberdi y Márquez de Avilés
+        </p>
+        <a
+          class="footer-location-button"
+          href="https://www.google.com/maps/search/?api=1&query=Quintana+178%2C+Ensenada%2C+Provincia+de+Buenos+Aires%2C+Argentina"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ver en Google Maps
+        </a>
+      </div>
+
+      <p class="footer-text">
+        Atención en salud, bienestar y servicios profesionales en
+        <strong>Policonsultorios De la Quintana</strong>.
+      </p>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+  </html>
+
+
